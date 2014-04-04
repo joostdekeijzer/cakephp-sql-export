@@ -1,0 +1,22 @@
+{
+    "name": "joostdekeijzer/cakephp-sql-export",
+    "description": "CakePHP Sql Export Plugin",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "sql", "export"],
+    "homepage": "http://dekeijzer.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joost de Keijzer",
+            "homepage": "http://dekeijzer.org",
+            "role": "Author"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "SqlExport"
+    }
+}

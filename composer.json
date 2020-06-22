@@ -2,7 +2,7 @@
     "name": "dkzr/cakephp-sql-export",
     "description": "CakePHP Sql Export Plugin",
     "type": "cakephp-plugin",
-    "keywords": [ "CakePHP", "sql", "export" ],
+    "keywords": ["CakePHP", "sql", "export"],
     "homepage": "https://github.com/joostdekeijzer/cakephp-sql-export/",
     "license": "MIT",
     "authors": [

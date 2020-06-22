@@ -2,13 +2,13 @@
     "name": "dkzr/cakephp-sql-export",
     "description": "CakePHP Sql Export Plugin",
     "type": "cakephp-plugin",
-    "keywords": ["cakephp", "sql", "export"],
-    "homepage": "http://dekeijzer.org",
+    "keywords": [ "CakePHP", "sql", "export" ],
+    "homepage": "https://github.com/joostdekeijzer/cakephp-sql-export/",
     "license": "MIT",
     "authors": [
         {
             "name": "Joost de Keijzer",
-            "homepage": "http://dekeijzer.org",
+            "homepage": "https://dkzr.nl",
             "role": "Author"
         }
     ],

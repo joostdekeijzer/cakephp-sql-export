@@ -1,6 +1,7 @@
 {
     "name": "dkzr/cakephp-sql-export",
     "description": "CakePHP Sql Export Plugin",
+    "abandoned": true,
     "type": "cakephp-plugin",
     "keywords": [
         "CakePHP",
